@@ -1,0 +1,1 @@
+Toy reinforcement learning algorithm to control the temperature of four rooms connected together. Actor-critic algorithm. Fairly limited by the information given/stability of the loop, so needs a consistent external temperature.
